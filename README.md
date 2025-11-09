@@ -50,3 +50,6 @@ mvn clean install
 
 # Run the application
 mvn javafx:run
+
+<img width="1082" height="832" alt="image" src="https://github.com/user-attachments/assets/1cf473c7-2b9f-4880-b3e8-5dfa3dfc9258" />
+
