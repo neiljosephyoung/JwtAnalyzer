@@ -59,7 +59,6 @@ public class MainController {
 
     private final DateTimeFormatter timeFormat = DateTimeFormatter.ofPattern("HH:mm:ss");
     private final JsonMapper mapper = new JsonMapper();
-
     private final DecimalFormat df = new DecimalFormat("#0.00");
     private final ScheduledExecutorService scheduler = Executors.newSingleThreadScheduledExecutor();
 
@@ -67,9 +66,6 @@ public class MainController {
     private void initialize() {
         startClock();
         startSystemMonitor();
-//        decodeButton.getStyleClass().add(Styles.SUCCESS);
-//        verifyButton.getStyleClass().add(Styles.ACCENT);
-//        clearButton.getStyleClass().add(Styles.DANGER);
         algorithmChoiceBox.setValue("HS256");
         statusLabel.setText("Ready to decode JWT");
 
