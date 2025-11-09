@@ -38,8 +38,6 @@ JWTAnalyzer is a JavaFX desktop application for decoding and optionally verifyin
 - JavaFX 25 or compatible runtime  
 - Maven (for building the project)  
 
-<img width="1082" height="832" alt="image" src="https://github.com/user-attachments/assets/1cf473c7-2b9f-4880-b3e8-5dfa3dfc9258" />
-
 ## Build and Run
 
 ```bash
@@ -53,3 +51,5 @@ mvn clean install
 # Run the application
 mvn javafx:run
 ```
+
+<img width="1082" height="832" alt="image" src="https://github.com/user-attachments/assets/1cf473c7-2b9f-4880-b3e8-5dfa3dfc9258" />
