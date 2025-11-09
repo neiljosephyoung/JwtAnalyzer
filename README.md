@@ -53,3 +53,5 @@ mvn javafx:run
 ```
 
 <img width="1082" height="832" alt="image" src="https://github.com/user-attachments/assets/1cf473c7-2b9f-4880-b3e8-5dfa3dfc9258" />
+<img width="1082" height="832" alt="image" src="https://github.com/user-attachments/assets/13d65569-3942-48f8-8114-be60c3adb8ae" />
+
