@@ -67,9 +67,9 @@ public class MainController {
     private void initialize() {
         startClock();
         startSystemMonitor();
-        decodeButton.getStyleClass().add(Styles.SUCCESS);
-        verifyButton.getStyleClass().add(Styles.ACCENT);
-        clearButton.getStyleClass().add(Styles.DANGER);
+//        decodeButton.getStyleClass().add(Styles.SUCCESS);
+//        verifyButton.getStyleClass().add(Styles.ACCENT);
+//        clearButton.getStyleClass().add(Styles.DANGER);
         algorithmChoiceBox.setValue("HS256");
         statusLabel.setText("Ready to decode JWT");
 
